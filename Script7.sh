@@ -4,3 +4,5 @@ ls -lrt
 echo $?
 echo "here if the value is 0 this command is sucessful"
 echo "testing branching merge pull"
+echo "Practicing for freature branch"
+echo "I'm from batch 33"
